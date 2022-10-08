@@ -1,1 +1,1 @@
-# Exercicios-de-IA
+# Progetos de IA
