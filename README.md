@@ -7,7 +7,7 @@ Repositório com projetos práticos de Machine Learning e IA desenvolvidos duran
 ## 📁 Projetos
 
 ### 🌱 Startup AGI — Sistema de Recomendação de Culturas Agrícolas
-**Arquivo:** `Projeto_Startup_AGI.ipynb`
+**Arquivo:** `[Projeto_Startup_AGI.ipynb](https://github.com/alexsander020/AGI)`
 
 Projeto completo de Machine Learning aplicado ao agronegócio. A partir de um dataset real com variáveis como pH do solo, temperatura, umidade e pluviosidade, o modelo recomenda qual cultura plantar para maximizar a produtividade.
 
